@@ -1,7 +1,7 @@
 <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
 
-    <polygon points="150,10 50,175 250,175" style="fill:Grey;stroke:purple;stroke-width:1" />
+    <polygon points="10,50 150,200 290,50" style="fill:#245;stroke:purple;stroke-width:1" />
   
-    <text x="150" y="125" font-size="60" text-anchor="middle" fill="White">VC</text>
+    <text x="150" y="125" font-size="60" text-anchor="middle" fill="#904">WWW</text>
   
   </svg>
